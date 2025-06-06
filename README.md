@@ -1,16 +1,7 @@
 # Liver-LepR-ePRS
 Peripheral Leptin Receptor Gene Network Modulates the Impact of Childhood Adversity on Mental Health Disorders
  
-Randriely Merscher Sobreira de Lima, PhD1,2, Barbara Barth, PhD1,2, Danusa Mar Arcego PhD2, Euclides José de Mendonça Filho PhD1,2, Sachin Patel MSc2, Zihan Wang MSc2, Guillaume Elgbeili MSc2, Irina Pokhvisneva MSc2, Carine Parent PhD2, Robert D. Levitan PhD3, Michael S. Kobor PhD ]4, Carla Dalmaz PhD 5,6, Patrícia Pelufo Silveira PhD 1,2*
-
-1)	Department of Psychiatry, Faculty of Medicine, McGill University, Montreal, QC, Canada.
-2)	Douglas Research Centre, McGill University, Montreal, QC, Canada
-3)	Department of Psychiatry, University of Toronto and Centre for Addiction and Mental Health, 250 College St, Toronto, Ontario, M5T 1R8, Canada.
-4)	Centre for Molecular Medicine and Therapeutics, BC Children's Hospital Research Institute, Department of Medical Genetics, The University of British Columbia, 938 West 28th Avenue, Vancouver, BC V5Z 4H4, Canada
-5)	Programa de Pós-graduação em Ciências Biológicas: Bioquímica, Departamento de Bioquímica, Instituto de Ciências Básicas da Saúde, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brazil 
-6)	Programa de Pós-Graduação em Neurociências, Instituto de Ciências Básicas da Saúde (ICBS), Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brazil
-   
-*Correspondent author: Patricia Pelufo Silveira, MD PhD
+Randriely Merscher Sobreira de Lima, PhD, Barbara Barth, PhD, Danusa Mar Arcego PhD, Euclides José de Mendonça Filho PhD, Sachin Patel MSc, Zihan Wang MSc, Guillaume Elgbeili MSc, Irina Pokhvisneva MSc, Carine Parent PhD, Robert D. Levitan PhD, Michael S. Kobor PhD, Carla Dalmaz PhD, Patrícia Pelufo Silveira PhD
 
 Accepted for publication
 
